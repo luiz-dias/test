@@ -1,72 +1,51 @@
-{
-	"City A": {
-		"Position": {
-			"name": "cityA",
-			"Longitude": 9.96233,
-			"Latitude": 49.80404
-		}
+[{
+		"name": "cityA",
+		"Longitude": 9.96233,
+		"Latitude": 49.80404
 	},
-	"City B": {
-		"Position": {
-			"name": "cityB",
-			"Longitude": 6.11499,
-			"Latitude": 50.76891
-		}
+	{
+		"name": "cityB",
+		"Longitude": 6.11499,
+		"Latitude": 50.76891
 	},
-	"City C": {
-		"Position": {
-			"name": "cityC",
-			"Longitude": 6.80592,
-			"Latitude": 51.53548
-		}
+	{
+		"name": "cityC",
+		"Longitude": 6.80592,
+		"Latitude": 51.53548
 	},
-	"City D": {
-		"Position": {
-			"name": "cityD",
-			"Longitude": 9.50523,
-			"Latitude": 51.31991
-		}
+	{
+		"name": "cityD",
+		"Longitude": 9.50523,
+		"Latitude": 51.31991
 	},
-	"City E": {
-		"Position": {
-			"name": "cityE",
-			"Longitude": 9.66089,
-			"Latitude": 48.70158
-		}
+	{
+		"name": "cityE",
+		"Longitude": 9.66089,
+		"Latitude": 48.70158
 	},
-	"City F": {
-		"Position": {
-			"name": "cityF",
-			"Longitude": 9.93368,
-			"Latitude": 53.55608
-		}
+	{
+		"name": "cityF",
+		"Longitude": 9.93368,
+		"Latitude": 53.55608
 	},
-	"City G": {
-		"Position": {
-			"name": "cityG",
-			"Longitude": 11.56122,
-			"Latitude": 48.14496
-		}
+	{
+		"name": "cityG",
+		"Longitude": 11.56122,
+		"Latitude": 48.14496
 	},
-	"City H": {
-		"Position": {
-			"name": "cityH",
-			"Longitude": 13.34253,
-			"Latitude": 52.5319
-		}
+	{
+		"name": "cityH",
+		"Longitude": 13.34253,
+		"Latitude": 52.5319
 	},
-	"City I": {
-		"Position": {
-			"name": "cityI",
-			"Longitude": 6.11327,
-			"Latitude": 50.77715
-		}
+	{
+		"name": "cityI",
+		"Longitude": 6.11327,
+		"Latitude": 50.77715
 	},
-	"City J": {
-		"Position": {
-			"name": "cityJ",
-			"Longitude": 13.36671,
-			"Latitude": 52.54344
-		}
+	{
+		"name": "cityJ",
+		"Longitude": 13.36671,
+		"Latitude": 52.54344
 	}
-}
+]
