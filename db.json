@@ -1,49 +1,57 @@
-[{
+[{		"link":"https://globoesporte.globo.com/",	
 		"name": "cityA",
 		"Longitude": 9.96233,
 		"Latitude": 49.80404
 	},
-	{
+	{	
+		"link":"https://g1.globo.com/",
 		"name": "cityB",
 		"Longitude": 6.11499,
 		"Latitude": 50.76891
 	},
-	{
+	{	
+		"link":"https://g1.globo.com/se",
 		"name": "cityC",
 		"Longitude": 6.80592,
 		"Latitude": 51.53548
 	},
-	{
+	{	
+		"link":"https://g1.globo.com/se/sergipe/noticia/2018/08/03/senar-abre-inscricao-para-tutores-presenciais.ghtml",
 		"name": "cityD",
 		"Longitude": 9.50523,
 		"Latitude": 51.31991
 	},
-	{
+	{	"link":"https://charges.uol.com.br/"
 		"name": "cityE",
 		"Longitude": 9.66089,
 		"Latitude": 48.70158
 	},
-	{
+	{	
+		"link":"https://jovempan.uol.com.br/"
 		"name": "cityF",
 		"Longitude": 9.93368,
 		"Latitude": 53.55608
 	},
-	{
+	{	
+		"link":"https://jovempan.uol.com.br/"
 		"name": "cityG",
 		"Longitude": 11.56122,
 		"Latitude": 48.14496
 	},
-	{
+	{	
+		"link":"https://jovempan.uol.com.br/"
 		"name": "cityH",
 		"Longitude": 13.34253,
 		"Latitude": 52.5319
 	},
 	{
+		"link":"https://jovempan.uol.com.br/"
 		"name": "cityI",
 		"Longitude": 6.11327,
 		"Latitude": 50.77715
 	},
 	{
+		"link":"https://jovempan.uol.com.br/"
 		"name": "cityJ",
 		"Longitude": 13.36671,
 		"Latitude": 52.54344
