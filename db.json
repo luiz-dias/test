@@ -38,23 +38,5 @@
 		"name": "cityG",
 		"Longitude": 11.56122,
 		"Latitude": 48.14496
-	},
-	{	
-		"link":"https://jovempan.uol.com.br/",
-		"name": "cityH",
-		"Longitude": 13.34253,
-		"Latitude": 52.5319
-	},
-	{
-		"link":"https://jovempan.uol.com.br/",
-		"name": "cityI",
-		"Longitude": 6.11327,
-		"Latitude": 50.77715
-	},
-	{
-		"link":"https://jovempan.uol.com.br/",
-		"name": "cityJ",
-		"Longitude": 13.36671,
-		"Latitude": 52.54344
 	}
 ]
