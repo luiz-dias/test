@@ -3,33 +3,40 @@
 		"matricula":112092,
 		"def":"semdeficiencia",
 		"latitude":-10.9260837,
-		"longitude":-37.1019876
+		"longitude":-37.1019876,
+		"emergencia":false
 	},
 	{
 		"matricula":134212,
 	 	"def":"fisica",
 	 	"latitude":-10.922488,
-	 	"longitude":-37.104145},
+	 	"longitude":-37.104145,
+		"emergencia":false
+	},
 	{	
 		"matricula":223456,
 	 	"def":"fisica",
 	 	"latitude":-10.922337,
-	 	"longitude":-37.1004005
+	 	"longitude":-37.1004005,
+		"emergencia":true
 	},
 	{	
 		"matricula":349012,
 	 	"def":"visual",
 	 	"latitude":-10.927025,
-	 	"longitude":-37.1041195
+	 	"longitude":-37.1041195,
+		"emergencia":true
 	},
 	{
 		"matricula":901231,
 		"def":"semdeficiencia",
 		"latitude":-10.9228249,
-		"longitude":-37.1043993
+		"longitude":-37.1043993,
+		"emergencia":false
 	},{
 		"matricula":9012323,
 		"def":"semdeficiencia",
 		"latitude":-10.925279,
-		"longitude":-37.104437
+		"longitude":-37.104437,
+		"emergencia":false
 	}]
